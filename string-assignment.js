@@ -37,7 +37,7 @@ function toTitleCase(text3){
             return text3.charAt(0).toUpperCase() + substr(1).toLowerCase();
         }
     );
-    console.log(toTitleCase("A busy office"));
+    console.log(text3.toTitleCase());
     
 }
 // console.log(text3.toTitleCase())
